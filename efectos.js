@@ -32,7 +32,10 @@ $(document).ready(function(){
 		$('.places-section').show();
 	})
 
-
+	$('.spanish').on('click', function(){
+		alert("This section is not finished yet.");
+	});
 });
+
 
 
